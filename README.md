@@ -1,5 +1,5 @@
 # 👋 About Us
-Hi, We are Karni Shifrin, Idan Perez, and Dan Amler, Data Engineering and Information students from the Technion with a passion for AI-driven decision-making and big data analytics. This project, Machine Learning Enhanced Workers Recruitment, was developed as part of our Data Collection Lab course, where we explored the power of PySpark, Databricks, and Machine Learning to optimize hiring decisions. Our model predicts employee retention, helping companies make smarter recruitment choices based on structured insights from LinkedIn and university data. 🚀  
+Hi, We are Karni Shifrin, Idan Perez, and Dan Amler, Data Engineering and Information students from the Technion with a passion for AI-driven decision-making and big data analytics. This project, Machine Learning Enhanced Workers Recruitment, was developed as part of our Data Collection Lab course, where we explored the power of PySpark, Databricks, and Machine Learning to optimize hiring decisions. Our model predicts employee retention, helping companies make smarter recruitment choices based on structured insights from LinkedIn and university data.
 
 ## 🚀 Project: Machine Learning Enhanced Workers Recruitment  
 ### 🔍 Overview  
